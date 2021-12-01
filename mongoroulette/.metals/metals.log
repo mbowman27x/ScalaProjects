@@ -1,0 +1,928 @@
+[0m2021.11.30 22:25:21 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\18284\Desktop\ScalaProjects\mongoroulette' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.30 22:25:24 INFO  time: initialize in 2.93s[0m
+[0m2021.11.30 22:25:25 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.30 22:28:28 WARN  no build target for: C:\Users\18284\Desktop\ScalaGames\Roulette\src\main\scala\example\Mossimo.scala[0m
+[0m2021.11.30 22:28:30 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.30 22:28:32 INFO  time: code lens generation in 4.23s[0m
+[0m2021.11.30 22:28:37 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Mossimo.scala[0m
+Nov 30, 2021 10:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+[0m2021.11.30 22:29:11 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Mossimo.scala[0m
+[0m2021.11.30 22:29:17 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\User.scala[0m
+[0m2021.11.30 22:56:02 WARN  no build target for: C:\Users\18284\Desktop\ScalaGames\Roulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 22:56:04 WARN  no build target for: C:\Users\18284\Desktop\ScalaGames\Roulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 22:56:08 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 10:56:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Nov 30, 2021 10:56:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+[0m2021.11.30 22:56:16 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+Nov 30, 2021 10:56:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Nov 30, 2021 10:56:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+Nov 30, 2021 10:56:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+[0m2021.11.30 22:56:34 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 22:56:37 WARN  no build target for: C:\Users\18284\Desktop\ScalaGames\Roulette\src\main\scala\example\Roulette.scala[0m
+Nov 30, 2021 10:56:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+[0m2021.11.30 22:56:42 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 10:56:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+[0m2021.11.30 22:56:42 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 22:57:03 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 22:57:14 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\User.scala[0m
+Nov 30, 2021 10:57:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 145
+[0m2021.11.30 22:57:16 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 22:57:26 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 22:57:31 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 10:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+[0m2021.11.30 22:57:45 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\User.scala[0m
+Nov 30, 2021 10:57:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+Nov 30, 2021 10:58:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+Nov 30, 2021 10:58:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+[0m2021.11.30 22:58:36 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\HighScore.scala[0m
+Nov 30, 2021 10:58:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+[0m2021.11.30 22:59:34 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\HighScore.scala[0m
+[0m2021.11.30 22:59:50 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\HighScore.scala[0m
+[0m2021.11.30 23:00:50 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\HighScore.scala[0m
+Nov 30, 2021 11:03:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 598
+[0m2021.11.30 23:03:35 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 11:04:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 619
+Nov 30, 2021 11:04:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 625
+Nov 30, 2021 11:04:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 631
+Nov 30, 2021 11:04:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+[0m2021.11.30 23:07:19 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 23:07:30 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 23:08:02 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 23:08:05 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 11:08:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 959
+Nov 30, 2021 11:08:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 965
+[0m2021.11.30 23:08:58 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 11:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1019
+Nov 30, 2021 11:09:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1025
+[0m2021.11.30 23:09:18 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 23:09:24 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+[0m2021.11.30 23:09:27 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala[0m
+Nov 30, 2021 11:09:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1065
+[0m2021.11.30 23:10:55 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 23:12:10 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 23:21:02 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+Nov 30, 2021 11:21:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2440
+Nov 30, 2021 11:21:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2446
+[0m2021.11.30 23:21:42 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 23:21:57 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 23:22:13 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+[0m2021.11.30 23:22:26 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala[0m
+Nov 30, 2021 11:22:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2587
+Nov 30, 2021 11:23:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2603
+Nov 30, 2021 11:23:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2609
+[0m2021.11.30 23:23:28 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\build.sbt[0m
+[0m2021.11.30 23:24:11 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\build.sbt[0m
+[0m2021.11.30 23:24:15 INFO  running 'C:\Program Files\Java\jdk-11.0.11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\18284\AppData\Local\Temp\metals11881044267109323600\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.11.30 23:24:20 INFO  [info] Loading settings for project mongoroulette-build-build from metals.sbt ...[0m
+[0m2021.11.30 23:24:20 INFO  [info] Loading project definition from C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project\project[0m
+[0m2021.11.30 23:24:20 INFO  [info] Updating ProjectRef(uri("file:/C:/Users/18284/Desktop/ScalaProjects/mongoroulette/project/project/"), "mongoroulette-build-build")...[0m
+[0m2021.11.30 23:24:23 INFO  [info] Done updating.[0m
+[0m2021.11.30 23:24:24 INFO  [info] Loading settings for project mongoroulette-build from metals.sbt ...[0m
+[0m2021.11.30 23:24:24 INFO  [info] Loading project definition from C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project[0m
+[0m2021.11.30 23:24:24 INFO  [info] Updating ProjectRef(uri("file:/C:/Users/18284/Desktop/ScalaProjects/mongoroulette/project/"), "mongoroulette-build")...[0m
+[0m2021.11.30 23:24:26 INFO  [info] Done updating.[0m
+[0m2021.11.30 23:24:26 INFO  [success] Generated .bloop\mongoroulette-build.json[0m
+[0m2021.11.30 23:24:28 INFO  [success] Total time: 4 s, completed Nov 30, 2021, 11:24:28 PM[0m
+[0m2021.11.30 23:24:28 WARN  no build target for: C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project\Dependencies.scala[0m
+[0m2021.11.30 23:24:30 INFO  [info] Loading settings for project root from build.sbt ...[0m
+[0m2021.11.30 23:24:30 INFO  [info] Set current project to projectZero (in build file:/C:/Users/18284/Desktop/ScalaProjects/mongoroulette/)[0m
+[0m2021.11.30 23:24:30 INFO  [info] Updating ...[0m
+[0m2021.11.30 23:24:30 INFO  [info] Done updating.[0m
+[0m2021.11.30 23:24:30 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.11.30 23:24:30 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.11.30 23:24:30 INFO  [success] Total time: 0 s, completed Nov 30, 2021, 11:24:30 PM[0m
+[0m2021.11.30 23:24:30 INFO  time: ran 'sbt bloopInstall' in 14s[0m
+[0m2021.11.30 23:24:30 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 15465'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop\root-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop\root.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.6.
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\net.java.dev.jna\jna\jars\jna-5.3.1.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.jline\jline\jars\jline-3.19.0.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.6.jar
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:15465...
+The server is listening for incoming connections at tcp://127.0.0.1:15465...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:24:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:24:30 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 43823'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:43823...
+The server is listening for incoming connections at tcp://127.0.0.1:43823...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:24:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:24:30 INFO  time: Connected to build server in 0.84s[0m
+[0m2021.11.30 23:24:30 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.30 23:24:33 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:24:34 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+Nov 30, 2021 11:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2700
+Nov 30, 2021 11:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2701
+Nov 30, 2021 11:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2703
+[0m2021.11.30 23:24:35 INFO  skipping build import with status 'Dismissed'[0m
+[0m2021.11.30 23:24:35 INFO  compiling mongoroulette-build (1 scala source)[0m
+[0m2021.11.30 23:24:35 INFO  time: indexed workspace in 4.3s[0m
+[0m2021.11.30 23:24:35 INFO  Deduplicating compilation of mongoroulette-build from bsp client 'Metals 0.10.9' (since 4.408s)[0m
+[0m2021.11.30 23:24:35 INFO  compiling root (4 scala sources)[0m
+[0m2021.11.30 23:24:35 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:24:35 INFO  compiling mongoroulette-build (1 scala source)[0m
+[0m2021.11.30 23:24:38 INFO  time: compiled mongoroulette-build in 2.76s[0m
+[0m2021.11.30 23:24:40 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.11.30 23:24:40 INFO  time: compiled root in 4.55s[0m
+[0m2021.11.30 23:24:59 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:25:01 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:25:02 WARN  unsupported Scala 2.12.7[0m
+Nov 30, 2021 11:25:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2717
+[0m2021.11.30 23:25:18 WARN  no build target for: C:\Users\18284\Desktop\Training Program\projectZeroFolder\projectzero\src\main\scala\example\Helpers.scala[0m
+[0m2021.11.30 23:25:24 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:25:25 WARN  1 deprecation (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.11.30 23:25:25 INFO  time: compiled root in 1.32s[0m
+[0m2021.11.30 23:26:15 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:26:18 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:26:18 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:26:21 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:26:26 WARN  unsupported Scala 2.12.7[0m
+[0m2021.11.30 23:26:27 INFO  running 'C:\Program Files\Java\jdk-11.0.11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\18284\AppData\Local\Temp\metals3548570530980699993\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.11.30 23:26:29 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 11.0.11)[0m
+[0m2021.11.30 23:26:31 INFO  [info] loading settings for project mongoroulette-build-build from metals.sbt ...[0m
+[0m2021.11.30 23:26:31 INFO  [info] loading project definition from C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project\project[0m
+[0m2021.11.30 23:26:34 INFO  [info] loading settings for project mongoroulette-build from metals.sbt ...[0m
+[0m2021.11.30 23:26:34 INFO  [info] loading project definition from C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project[0m
+[0m2021.11.30 23:26:36 INFO  [success] Generated .bloop\mongoroulette-build.json[0m
+[0m2021.11.30 23:26:36 INFO  [info] compiling 1 Scala source to C:\Users\18284\Desktop\ScalaProjects\mongoroulette\project\target\scala-2.12\sbt-1.0\classes ...[0m
+[0m2021.11.30 23:26:39 INFO  [info] done compiling[0m
+[0m2021.11.30 23:26:39 INFO  [success] Total time: 5 s, completed Nov 30, 2021, 11:26:40 PM[0m
+[0m2021.11.30 23:26:41 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.11.30 23:26:41 INFO  [info] set current project to MongoRoulette (in build file:/C:/Users/18284/Desktop/ScalaProjects/mongoroulette/)[0m
+[0m2021.11.30 23:26:41 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.11.30 23:26:41 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.11.30 23:26:41 INFO  [success] Total time: 0 s, completed Nov 30, 2021, 11:26:42 PM[0m
+[0m2021.11.30 23:26:42 INFO  time: ran 'sbt bloopInstall' in 14s[0m
+[0m2021.11.30 23:26:42 INFO  Disconnecting from Bloop session...[0m
+[0m2021.11.30 23:26:42 INFO  Shut down connection with build server.[0m
+[0m2021.11.30 23:26:42 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.30 23:26:42 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 19908'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop\root-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\mongoroulette\.bloop\root.json'
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root', 'root-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:19908...
+The server is listening for incoming connections at tcp://127.0.0.1:19908...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:26:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:26:42 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 36623'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:36623...
+The server is listening for incoming connections at tcp://127.0.0.1:36623...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:26:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:26:43 INFO  time: Connected to build server in 0.67s[0m
+[0m2021.11.30 23:26:43 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.30 23:26:46 INFO  time: indexed workspace in 3.38s[0m
+[0m2021.11.30 23:26:46 WARN  no build target for: C:\Users\18284\Desktop\Training Program\projectZeroFolder\projectzero\src\main\scala\example\Helpers.scala[0m
+[0m2021.11.30 23:26:46 INFO  compiling mongoroulette-build (1 scala source)[0m
+[0m2021.11.30 23:26:46 INFO  compiling root (5 scala sources)[0m
+[0m2021.11.30 23:26:46 INFO  time: code lens generation in 3.23s[0m
+Nov 30, 2021 11:26:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2815
+[0m2021.11.30 23:26:48 WARN  6 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.11.30 23:26:48 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+[0m2021.11.30 23:26:48 INFO  time: compiled mongoroulette-build in 1.91s[0m
+[0m2021.11.30 23:26:48 INFO  time: compiled root in 1.79s[0m
+Nov 30, 2021 11:26:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2830
+Nov 30, 2021 11:27:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2840
+[0m2021.11.30 23:27:31 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:27:31 INFO  time: compiled root in 0.78s[0m
+Nov 30, 2021 11:27:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2895
+[0m2021.11.30 23:28:05 INFO  shutting down Metals[0m
+[0m2021.11.30 23:28:05 INFO  Shut down connection with build server.[0m
+[0m2021.11.30 23:28:05 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.11.30 23:28:18 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\18284\Desktop\ScalaProjects\mongoroulette' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.30 23:28:19 INFO  time: initialize in 1.47s[0m
+[0m2021.11.30 23:28:20 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.30 23:28:19 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 13533'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:13533...
+The server is listening for incoming connections at tcp://127.0.0.1:13533...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:28:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:28:20 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 14184'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:14184...
+The server is listening for incoming connections at tcp://127.0.0.1:14184...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.30 23:28:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.30 23:28:21 INFO  time: Connected to build server in 1.26s[0m
+[0m2021.11.30 23:28:21 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.30 23:28:23 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.30 23:28:23 INFO  time: code lens generation in 3.29s[0m
+[0m2021.11.30 23:28:24 INFO  time: Imported build in 0.33s[0m
+[0m2021.11.30 23:28:25 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.30 23:28:26 INFO  time: code lens generation in 3.23s[0m
+[0m2021.11.30 23:28:26 INFO  time: code lens generation in 5.78s[0m
+[0m2021.11.30 23:28:26 INFO  time: code lens generation in 3.83s[0m
+[0m2021.11.30 23:28:26 INFO  time: code lens generation in 1.63s[0m
+[0m2021.11.30 23:28:28 INFO  time: indexed workspace in 4.44s[0m
+[0m2021.11.30 23:28:29 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+Nov 30, 2021 11:28:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/taskFinish",
+  "params": {
+    "taskId": {
+      "id": "1"
+    },
+    "eventTime": 1638332908777,
+    "message": "Compiled \u0027root\u0027",
+    "status": 1,
+    "dataKind": "compile-report",
+    "data": {
+      "target": {
+        "uri": "file:/C:/Users/18284/Desktop/ScalaProjects/mongoroulette/?id\u003droot"
+      },
+      "errors": 0,
+      "warnings": 0,
+      "isNoOp": true,
+      "isLastCycle": true,
+      "clientDir": "file:///C:/Users/18284/Desktop/ScalaProjects/mongoroulette/.bloop/root/bloop-bsp-clients-classes/classes-Metals-smz1_HxUTVeLhH4euq5ROA\u003d\u003d/",
+      "analysisOut": "file:///C:/Users/18284/Desktop/ScalaProjects/mongoroulette/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NullPointerException
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3(Compilers.scala:235)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$3$adapted(Compilers.scala:233)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2(Compilers.scala:233)
+	at scala.meta.internal.metals.Compilers.$anonfun$didCompile$2$adapted(Compilers.scala:232)
+	at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)
+	at scala.meta.internal.metals.Compilers.didCompile(Compilers.scala:232)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10(MetalsLanguageServer.scala:407)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$updateWorkspaceDirectory$10$adapted(MetalsLanguageServer.scala:405)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$2(ForwardingMetalsBuildClient.scala:172)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1(ForwardingMetalsBuildClient.scala:169)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.$anonfun$buildTaskFinish$1$adapted(ForwardingMetalsBuildClient.scala:168)
+	at scala.Option.foreach(Option.scala:407)
+	at scala.meta.internal.metals.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:168)
+	... 16 more
+
+[0m2021.11.30 23:32:15 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:32:15 INFO  time: compiled root in 0.57s[0m
+Nov 30, 2021 11:32:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 136
+[0m2021.11.30 23:32:34 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:32:34 INFO  time: compiled root in 0.64s[0m
+Nov 30, 2021 11:33:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 172
+Nov 30, 2021 11:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 178
+[0m2021.11.30 23:37:52 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:37:52 INFO  time: compiled root in 0.68s[0m
+Nov 30, 2021 11:38:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 777
+Nov 30, 2021 11:38:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 783
+[0m2021.11.30 23:38:45 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:38:45 INFO  time: compiled root in 97ms[0m
+Nov 30, 2021 11:39:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 837
+Nov 30, 2021 11:39:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 851
+Nov 30, 2021 11:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869
+[0m2021.11.30 23:39:33 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:39:33 INFO  time: compiled root in 0.16s[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:47:45: stale bloop error: not found: value pokemonName
+            "name" -> Document("english" -> pokemonName),
+                                            ^^^^^^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:48:40: stale bloop error: not found: value HP
+            "base" -> Document("HP" -> HP,
+                                       ^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:49:44: stale bloop error: not found: value Attack
+                               "Attack" -> Attack,
+                                           ^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:50:45: stale bloop error: not found: value Defense
+                               "Defense" -> Defense,
+                                            ^^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:51:43: stale bloop error: not found: value Speed
+                               "Speed" -> Speed )
+                                          ^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:47:45: stale bloop error: not found: value pokemonName
+            "name" -> Document("english" -> pokemonName),
+                                            ^^^^^^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:48:40: stale bloop error: not found: value HP
+            "base" -> Document("HP" -> HP,
+                                       ^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:49:44: stale bloop error: not found: value Attack
+                               "Attack" -> Attack,
+                                           ^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:50:45: stale bloop error: not found: value Defense
+                               "Defense" -> Defense,
+                                            ^^^^^^^[0m
+[0m2021.11.30 23:39:47 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:51:43: stale bloop error: not found: value Speed
+                               "Speed" -> Speed )
+                                          ^^^^^[0m
+Nov 30, 2021 11:40:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 988
+Nov 30, 2021 11:40:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 994
+[0m2021.11.30 23:40:50 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:40:50 INFO  time: compiled root in 0.6s[0m
+Nov 30, 2021 11:40:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1038
+Nov 30, 2021 11:40:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1044
+Nov 30, 2021 11:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1050
+Nov 30, 2021 11:41:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1056
+Nov 30, 2021 11:41:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1062
+Nov 30, 2021 11:41:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1068
+[0m2021.11.30 23:41:26 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:41:26 INFO  time: compiled root in 0.59s[0m
+Nov 30, 2021 11:41:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1118
+Nov 30, 2021 11:41:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1124
+[0m2021.11.30 23:44:45 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:44:45 INFO  time: compiled root in 0.62s[0m
+[0m2021.11.30 23:45:57 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:45:57 INFO  time: compiled root in 0.75s[0m
+[0m2021.11.30 23:49:12 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:49:12 INFO  time: compiled root in 0.87s[0m
+[0m2021.11.30 23:49:34 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:49:35 INFO  time: compiled root in 1.12s[0m
+[0m2021.11.30 23:50:05 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:50:06 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.11.30 23:50:06 INFO  time: compiled root in 1.07s[0m
+[0m2021.11.30 23:50:14 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:50:14 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.11.30 23:50:14 INFO  time: compiled root in 0.87s[0m
+Nov 30, 2021 11:50:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1524
+Nov 30, 2021 11:50:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1530
+Nov 30, 2021 11:50:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1536
+[0m2021.11.30 23:50:34 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:50:34 INFO  time: compiled root in 0.54s[0m
+Nov 30, 2021 11:50:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1552
+Nov 30, 2021 11:50:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1560
+[0m2021.11.30 23:51:34 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:51:34 INFO  time: compiled root in 0.78s[0m
+[0m2021.11.30 23:51:38 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:51:38 INFO  time: compiled root in 0.69s[0m
+[0m2021.11.30 23:53:41 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:53:41 INFO  time: compiled root in 0.66s[0m
+[0m2021.11.30 23:54:43 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:54:43 INFO  time: compiled root in 0.15s[0m
+[0m2021.11.30 23:55:35 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:55:35 INFO  time: compiled root in 0.14s[0m
+[0m2021.11.30 23:56:24 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:56:24 INFO  time: compiled root in 0.67s[0m
+[0m2021.11.30 23:58:38 INFO  compiling root (1 scala source)[0m
+[0m2021.11.30 23:58:38 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.01 00:02:00 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:02:00 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.01 00:02:07 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:02:07 INFO  time: compiled root in 0.11s[0m
+[0m2021.12.01 00:02:25 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:02:25 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.01 00:02:28 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:02:28 INFO  time: compiled root in 90ms[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:25: stale bloop error: type mismatch;
+ found   : String("Name")
+ required: org.mongodb.scala.ClientSession
+    (which expands to)  com.mongodb.async.client.ClientSession
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                        ^^^^^^[0m
+[0m2021.12.01 00:02:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:33: stale bloop error: type mismatch;
+ found   : Boolean(true)
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find("Name", true).sort(descending("Score")).limit(10).printResults()
+                                ^^^^[0m
+[0m2021.12.01 00:02:38 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:02:38 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.01 00:03:32 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:03:32 INFO  time: compiled root in 43ms[0m
+[0m2021.12.01 00:03:35 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:03:35 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:37 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:37 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:36 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:03:37 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\StartGame.scala:60:9: stale bloop error: overloaded method find with alternatives:
+  [C](clientSession: org.mongodb.scala.ClientSession)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C] <and>
+  [C](filter: org.mongodb.scala.bson.conversions.Bson)(implicit e: org.mongodb.scala.bson.DefaultHelper.DefaultsTo[C,org.mongodb.scala.Document], ct: scala.reflect.ClassTag[C]): org.mongodb.scala.FindObservable[C]
+ cannot be applied to (String)
+        collection.find({"Name"}).sort(descending("Score")).limit(10).printResults()
+        ^^^^^^^^^^^^^^^[0m
+[0m2021.12.01 00:08:09 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:08:09 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.01 00:08:21 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:08:21 INFO  time: compiled root in 0.6s[0m
+[0m2021.12.01 00:08:32 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:08:32 INFO  time: compiled root in 0.81s[0m
+Dec 01, 2021 12:08:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2166
+[0m2021.12.01 00:08:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:08:57 INFO  time: compiled root in 0.6s[0m
+Dec 01, 2021 12:09:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2202
+Dec 01, 2021 12:09:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2214
+Dec 01, 2021 12:09:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2220
+Dec 01, 2021 12:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2226
+Dec 01, 2021 12:09:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2232
+Dec 01, 2021 12:09:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2238
+Dec 01, 2021 12:17:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2245
+[0m2021.12.01 00:17:42 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:17:42 INFO  time: compiled root in 0.58s[0m
+Dec 01, 2021 12:17:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2273
+[0m2021.12.01 00:18:26 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:18:26 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:18:26 INFO  time: compiled root in 0.72s[0m
+Dec 01, 2021 12:19:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2333
+[0m2021.12.01 00:19:35 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:19:35 INFO  time: compiled root in 0.73s[0m
+Dec 01, 2021 12:30:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2395
+[0m2021.12.01 00:31:17 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:31:17 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:31:17 INFO  time: compiled root in 0.86s[0m
+[0m2021.12.01 00:31:54 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:31:54 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:31:54 INFO  time: compiled root in 0.74s[0m
+[0m2021.12.01 00:32:31 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:32:31 INFO  time: compiled root in 69ms[0m
+[0m2021.12.01 00:32:35 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:32:35 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:32:35 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.01 00:35:08 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:35:08 INFO  time: compiled root in 43ms[0m
+[0m2021.12.01 00:35:12 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:35:12 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:35:12 INFO  time: compiled root in 0.82s[0m
+[0m2021.12.01 00:36:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:36:24 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:36:24 INFO  time: compiled root in 0.64s[0m
+[0m2021.12.01 00:37:17 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:37:17 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:37:17 INFO  time: compiled root in 0.67s[0m
+[0m2021.12.01 00:37:43 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:37:43 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:37:43 INFO  time: compiled root in 0.69s[0m
+Dec 01, 2021 12:37:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2944
+[0m2021.12.01 00:38:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:38:03 INFO  time: compiled root in 0.58s[0m
+Dec 01, 2021 12:39:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:40:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 12:41:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.01 00:49:07 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:49:07 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:49:07 INFO  time: compiled root in 0.67s[0m
+[0m2021.12.01 00:50:10 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:50:10 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:50:10 INFO  time: compiled root in 0.66s[0m
+[0m2021.12.01 00:52:20 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:52:20 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:52:20 INFO  time: compiled root in 0.85s[0m
+[0m2021.12.01 00:53:00 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:53:00 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:53:00 INFO  time: compiled root in 0.68s[0m
+Dec 01, 2021 12:57:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3325
+[0m2021.12.01 00:57:48 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 00:57:48 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 00:57:48 INFO  time: compiled root in 0.69s[0m
+Dec 01, 2021 1:01:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3436
+Dec 01, 2021 1:01:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3442
+Dec 01, 2021 1:01:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3448
+Dec 01, 2021 1:01:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3460
+Dec 01, 2021 1:01:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3467
+[0m2021.12.01 01:01:37 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:01:37 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.01 01:05:31 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:05:31 INFO  time: compiled root in 0.71s[0m
+Dec 01, 2021 1:09:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:10:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:10:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:10:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:10:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:10:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 01, 2021 1:11:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.01 01:11:07 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:11:07 INFO  time: compiled root in 0.72s[0m
+Dec 01, 2021 1:12:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3683
+Dec 01, 2021 1:12:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3689
+[0m2021.12.01 01:12:40 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:12:40 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:12:40 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.01 01:20:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:20:24 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:25:17: stale bloop error: unclosed string literal
+        println("       ____              __     __  __     
+                ^[0m
+[0m2021.12.01 01:20:24 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:25:17: stale bloop error: unclosed string literal
+        println("       ____              __     __  __     
+                ^[0m
+[0m2021.12.01 01:20:24 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:29:61: stale bloop error: unclosed string literal
+                    /_/ |_|\____/\__,_/_/\___/\__/\__/\___/ ")
+                                                            ^[0m
+[0m2021.12.01 01:20:24 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:38:5: stale bloop error: ')' expected but '}' found.
+    }
+    ^[0m
+[0m2021.12.01 01:20:24 INFO  time: compiled root in 54ms[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:25:17: stale bloop error: unclosed string literal
+        println("       ____              __     __  __     
+                ^[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:29:61: stale bloop error: unclosed string literal
+                    /_/ |_|\____/\__,_/_/\___/\__/\__/\___/ ")
+                                                            ^[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:38:5: stale bloop error: ')' expected but '}' found.
+    }
+    ^[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:25:17: stale bloop error: unclosed string literal
+        println("       ____              __     __  __     
+                ^[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:29:61: stale bloop error: unclosed string literal
+                    /_/ |_|\____/\__,_/_/\___/\__/\__/\___/ ")
+                                                            ^[0m
+[0m2021.12.01 01:20:53 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:38:5: stale bloop error: ')' expected but '}' found.
+    }
+    ^[0m
+[0m2021.12.01 01:20:55 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:25:17: stale bloop error: unclosed string literal
+        println("       ____              __     __  __     
+                ^[0m
+[0m2021.12.01 01:20:55 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:29:61: stale bloop error: unclosed string literal
+                    /_/ |_|\____/\__,_/_/\___/\__/\__/\___/ ")
+                                                            ^[0m
+[0m2021.12.01 01:20:55 INFO  C:\Users\18284\Desktop\ScalaProjects\mongoroulette\src\main\scala\example\Roulette.scala:38:5: stale bloop error: ')' expected but '}' found.
+    }
+    ^[0m
+Dec 01, 2021 1:21:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3847
+[0m2021.12.01 01:24:59 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:24:59 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:24:59 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.01 01:25:05 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:25:05 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:25:05 INFO  time: compiled root in 0.69s[0m
+[0m2021.12.01 01:26:14 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:26:14 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:26:14 INFO  time: compiled root in 0.66s[0m
+Dec 01, 2021 1:31:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3989
+Dec 01, 2021 1:31:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4010
+[0m2021.12.01 01:34:10 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:34:10 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:34:10 INFO  time: compiled root in 0.81s[0m
+[0m2021.12.01 01:36:21 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:36:21 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.01 01:36:43 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:36:43 INFO  time: compiled root in 91ms[0m
+[0m2021.12.01 01:37:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:37:03 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.01 01:37:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:37:16 INFO  time: compiled root in 88ms[0m
+[0m2021.12.01 01:37:23 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:37:23 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:37:23 INFO  time: compiled root in 0.75s[0m
+Dec 01, 2021 1:37:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5012
+Dec 01, 2021 1:37:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5019
+Dec 01, 2021 1:37:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5025
+[0m2021.12.01 01:38:23 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:38:23 INFO  time: compiled root in 0.62s[0m
+[0m2021.12.01 01:39:06 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:39:06 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:39:06 INFO  time: compiled root in 0.67s[0m
+[0m2021.12.01 01:43:52 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:43:52 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:43:52 INFO  time: compiled root in 0.69s[0m
+[0m2021.12.01 01:48:11 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 01:48:11 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 01:48:11 INFO  time: compiled root in 0.73s[0m
+[0m2021.12.01 02:00:36 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:00:36 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:00:36 INFO  time: compiled root in 0.66s[0m
+[0m2021.12.01 02:02:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:02:16 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:02:16 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.01 02:07:53 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:07:53 WARN  6 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:07:53 INFO  time: compiled root in 0.98s[0m
+[0m2021.12.01 02:08:11 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:08:11 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:08:11 INFO  time: compiled root in 0.72s[0m
+[0m2021.12.01 02:08:55 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:08:55 INFO  time: compiled root in 57ms[0m
+[0m2021.12.01 02:09:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:09:24 INFO  time: compiled root in 59ms[0m
+[0m2021.12.01 02:09:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:09:57 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:09:57 INFO  time: compiled root in 0.97s[0m
+[0m2021.12.01 02:10:02 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:10:02 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:10:03 INFO  time: compiled root in 1.03s[0m
+[0m2021.12.01 02:12:01 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:12:01 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:12:01 INFO  time: compiled root in 0.73s[0m
+[0m2021.12.01 02:12:55 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 02:12:55 WARN  5 deprecations (since 2.13.3); re-run with -deprecation for details[0m
+[0m2021.12.01 02:12:55 INFO  time: compiled root in 0.66s[0m
