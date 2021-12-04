@@ -1314,3 +1314,429 @@ No more data in the client stdin, exiting...
 No more data in the server stdin, exiting...
 No more data in the client stdin, exiting...
 No more data in the server stdin, exiting...
+[0m2021.12.01 12:47:09 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\18284\Desktop\ScalaProjects\pokedex' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.01 12:47:11 INFO  time: initialize in 1.88s[0m
+[0m2021.12.01 12:47:12 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 28662'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m2021.12.01 12:47:17 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.6.
+[0m[32m[D][0m   => C:\Users\18284\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\net\java\dev\jna\jna\5.3.1\jna-5.3.1.jar
+[0m[32m[D][0m   => C:\Users\18284\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.19.0\jline-3.19.0.jar
+[0m[32m[D][0m   => C:\Users\18284\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.6\scala-compiler-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.6\scala-library-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.6\scala-reflect-2.13.6.jar
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Loading previous analysis for 'root' from 'C:\Users\18284\Desktop\ScalaProjects\pokedex\target\streams\compile\bloopAnalysisOut\_global\streams\inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:28662...
+The server is listening for incoming connections at tcp://127.0.0.1:28662...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.01 12:47:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.01 12:47:20 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 29643'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:29643...
+The server is listening for incoming connections at tcp://127.0.0.1:29643...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.01 12:47:20 INFO  time: code lens generation in 5.1s[0m
+[0m2021.12.01 12:47:20 INFO  time: code lens generation in 8.05s[0m
+[0m2021.12.01 12:47:20 INFO  time: code lens generation in 2.71s[0m
+[0m2021.12.01 12:47:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.01 12:47:21 INFO  time: Connected to build server in 8.74s[0m
+[0m2021.12.01 12:47:21 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.01 12:47:20 INFO  time: Imported build in 0.14s[0m
+[0m2021.12.01 12:47:23 INFO  time: indexed workspace in 2.48s[0m
+[0m2021.12.01 12:47:25 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+[0m2021.12.01 12:48:20 INFO  running 'C:\Program Files\Java\jdk-11.0.11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\18284\AppData\Local\Temp\metals5232943246498860979\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.12.01 12:48:25 INFO  [info] Loading settings for project pokedex-build-build from metals.sbt ...[0m
+[0m2021.12.01 12:48:25 INFO  [info] Loading project definition from C:\Users\18284\Desktop\ScalaProjects\pokedex\project\project[0m
+[0m2021.12.01 12:48:25 INFO  [info] Updating ProjectRef(uri("file:/C:/Users/18284/Desktop/ScalaProjects/pokedex/project/project/"), "pokedex-build-build")...[0m
+[0m2021.12.01 12:48:28 INFO  [info] Done updating.[0m
+[0m2021.12.01 12:48:29 INFO  [info] Loading settings for project pokedex-build from metals.sbt ...[0m
+[0m2021.12.01 12:48:29 INFO  [info] Loading project definition from C:\Users\18284\Desktop\ScalaProjects\pokedex\project[0m
+[0m2021.12.01 12:48:32 INFO  [success] Generated .bloop\pokedex-build.json[0m
+[0m2021.12.01 12:48:32 INFO  [info] Compiling 1 Scala source to C:\Users\18284\Desktop\ScalaProjects\pokedex\project\target\scala-2.12\sbt-1.0\classes ...[0m
+[0m2021.12.01 12:48:32 INFO  [info] Done compiling.[0m
+[0m2021.12.01 12:48:33 ERROR WARNING: An illegal reflective access operation has occurred[0m
+[0m2021.12.01 12:48:33 ERROR WARNING: Illegal reflective access by com.google.protobuf.UnsafeUtil (file:/C:/Users/18284/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.7/protobuf-java-3.3.1.jar) to field java.nio.Buffer.address[0m
+[0m2021.12.01 12:48:33 ERROR WARNING: Please consider reporting this to the maintainers of com.google.protobuf.UnsafeUtil[0m
+[0m2021.12.01 12:48:33 ERROR WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations[0m
+[0m2021.12.01 12:48:33 ERROR WARNING: All illegal access operations will be denied in a future release[0m
+[0m2021.12.01 12:48:33 INFO  [success] Total time: 3 s, completed Dec 1, 2021, 12:48:33 PM[0m
+[0m2021.12.01 12:48:35 INFO  [info] Loading settings for project root from build.sbt ...[0m
+[0m2021.12.01 12:48:35 INFO  [info] Set current project to Pokedex (in build file:/C:/Users/18284/Desktop/ScalaProjects/pokedex/)[0m
+[0m2021.12.01 12:48:35 INFO  [info] Updating ...[0m
+[0m2021.12.01 12:48:35 INFO  [info] Done updating.[0m
+[0m2021.12.01 12:48:35 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.12.01 12:48:35 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.12.01 12:48:35 INFO  [success] Total time: 0 s, completed Dec 1, 2021, 12:48:35 PM[0m
+[0m2021.12.01 12:48:35 INFO  time: ran 'sbt bloopInstall' in 14s[0m
+[0m2021.12.01 12:48:35 INFO  Disconnecting from Bloop session...[0m
+[0m2021.12.01 12:48:35 INFO  Shut down connection with build server.[0m
+[0m2021.12.01 12:48:35 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.12.01 12:48:35 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 11841'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.6.
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\net.java.dev.jna\jna\jars\jna-5.3.1.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.jline\jline\jars\jline-3.19.0.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.6.jar
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root', 'root-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:11841...
+The server is listening for incoming connections at tcp://127.0.0.1:11841...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.01 12:48:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.01 12:48:36 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 43539'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:43539...
+The server is listening for incoming connections at tcp://127.0.0.1:43539...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.01 12:48:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.01 12:48:36 INFO  time: Connected to build server in 0.97s[0m
+[0m2021.12.01 12:48:36 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.01 12:48:40 INFO  time: indexed workspace in 3.24s[0m
+[0m2021.12.01 12:48:40 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.01 12:48:41 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+[0m2021.12.01 12:48:44 WARN  1 deprecation (since 2.13.0)[0m
+[0m2021.12.01 12:48:44 WARN  1 deprecation (since 2.13.3)[0m
+[0m2021.12.01 12:48:44 WARN  2 deprecations in total; re-run with -deprecation for details[0m
+[0m2021.12.01 12:48:44 INFO  time: compiled root in 4.19s[0m
+[0m2021.12.01 20:16:50 INFO  shutting down Metals[0m
+[0m2021.12.01 20:16:50 INFO  Shut down connection with build server.[0m
+[0m2021.12.01 20:16:50 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.12.03 22:21:33 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\18284\Desktop\ScalaProjects\pokedex' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.03 22:21:34 INFO  time: initialize in 1.55s[0m
+[0m2021.12.03 22:21:35 INFO  Attempting to connect to the build server...[0m
+[0m2021.12.03 22:21:34 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 20894'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root.json'
+[0m[32m[D][0m Loading project from 'c:\Users\18284\Desktop\ScalaProjects\pokedex\.bloop\root-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.6.
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\net.java.dev.jna\jna\jars\jna-5.3.1.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.jline\jline\jars\jline-3.19.0.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.6.jar
+[0m[32m[D][0m   => C:\Users\18284\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.6.jar
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Loading previous analysis for 'root' from 'C:\Users\18284\Desktop\ScalaProjects\pokedex\target\streams\compile\bloopAnalysisOut\$global\streams\inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:20894...
+The server is listening for incoming connections at tcp://127.0.0.1:20894...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.03 22:21:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.03 22:21:40 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 34454'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:34454...
+The server is listening for incoming connections at tcp://127.0.0.1:34454...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.03 22:21:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\18284\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.03 22:21:41 INFO  time: Connected to build server in 5.98s[0m
+[0m2021.12.03 22:21:41 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.03 22:21:44 INFO  time: indexed workspace in 2.68s[0m
+[0m2021.12.03 22:21:45 INFO  no build target: using presentation compiler with only scala-library: 2.13.6[0m
+Dec 03, 2021 10:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 03, 2021 10:24:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 03, 2021 10:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+Dec 03, 2021 10:38:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+Dec 03, 2021 10:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+Dec 03, 2021 10:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 83
+[0m2021.12.03 22:43:20 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 22:43:22 INFO  time: compiled root in 1.76s[0m
+[0m2021.12.03 22:43:31 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 22:43:33 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 22:43:33 INFO  time: compiled root in 1.54s[0m
+[0m2021.12.03 22:54:48 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 22:54:48 WARN  1 deprecation (since 2.13.0)[0m
+[0m2021.12.03 22:54:48 WARN  1 deprecation (since 2.13.3)[0m
+[0m2021.12.03 22:54:48 WARN  2 deprecations in total; re-run with -deprecation for details[0m
+[0m2021.12.03 22:54:48 INFO  time: compiled root in 0.84s[0m
+[0m2021.12.03 23:05:48 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:05:48 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:05:48 INFO  time: compiled root in 0.75s[0m
+[0m2021.12.03 23:06:36 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:06:36 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:06:36 INFO  time: compiled root in 0.74s[0m
+[0m2021.12.03 23:06:41 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:06:41 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:06:41 INFO  time: compiled root in 0.7s[0m
+[0m2021.12.03 23:08:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:08:03 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:08:03 INFO  time: compiled root in 0.76s[0m
+[0m2021.12.03 23:54:15 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:54:15 WARN  1 deprecation (since 2.13.0)[0m
+[0m2021.12.03 23:54:15 WARN  2 deprecations (since 2.13.3)[0m
+[0m2021.12.03 23:54:15 WARN  3 deprecations in total; re-run with -deprecation for details[0m
+[0m2021.12.03 23:54:15 INFO  time: compiled root in 0.79s[0m
+[0m2021.12.03 23:54:27 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:54:27 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:54:27 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.03 23:57:06 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:57:06 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:57:06 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.03 23:57:33 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:57:33 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:57:33 INFO  time: compiled root in 0.66s[0m
+[0m2021.12.03 23:59:26 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 23:59:26 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.03 23:59:26 INFO  time: compiled root in 0.64s[0m
+[0m2021.12.04 00:00:47 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:00:47 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:00:47 INFO  time: compiled root in 0.68s[0m
+Dec 04, 2021 12:12:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 99 is not a valid line number, allowed [0..93]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+Dec 04, 2021 12:16:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2249
+[0m2021.12.04 00:22:34 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:22:34 INFO  time: compiled root in 0.23s[0m
+[0m2021.12.04 00:23:02 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:23:02 INFO  time: compiled root in 58ms[0m
+[0m2021.12.04 00:23:16 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:23:16 INFO  time: compiled root in 0.18s[0m
+[0m2021.12.04 00:28:12 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:28:12 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:28:12 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.04 00:28:44 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:28:44 INFO  time: compiled root in 0.18s[0m
+[0m2021.12.04 00:28:55 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:28:55 INFO  time: compiled root in 0.18s[0m
+[0m2021.12.04 00:29:00 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:29:00 INFO  time: compiled root in 0.16s[0m
+[0m2021.12.04 00:29:05 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:29:05 INFO  time: compiled root in 0.14s[0m
+[0m2021.12.04 00:29:07 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:29:07 INFO  time: compiled root in 0.15s[0m
+[0m2021.12.04 00:29:10 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:29:10 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:29:10 INFO  time: compiled root in 0.69s[0m
+[0m2021.12.04 00:38:59 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:38:59 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:38:59 INFO  time: compiled root in 0.82s[0m
+[0m2021.12.04 00:49:08 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:49:08 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.04 00:49:36 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:49:36 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:49:36 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.04 00:49:56 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:49:56 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:49:56 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.04 00:50:43 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:50:43 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:50:43 INFO  time: compiled root in 0.66s[0m
+[0m2021.12.04 00:52:34 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:52:34 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 00:52:48 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:52:48 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.04 00:52:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:52:57 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 00:57:37 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:57:37 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:57:37 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.04 00:58:49 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 00:58:49 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 00:58:49 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.04 01:02:10 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:02:10 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 01:03:26 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:03:26 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 01:03:57 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:03:57 INFO  time: compiled root in 0.14s[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: polymorphic expression cannot be instantiated to expected type;
+ found   : [TItem](fieldName: String, value: TItem): org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  [TItem](fieldName: String, value: TItem): org.bson.conversions.Bson
+ required: "id"
+        collection.find().max(max: "id")
+                              ^^^[0m
+[0m2021.12.04 01:04:05 INFO  C:\Users\18284\Desktop\ScalaProjects\pokedex\src\main\scala\example\Pokedex.scala:21:31: stale bloop error: type mismatch;
+ found   : "id"
+ required: org.mongodb.scala.bson.conversions.Bson
+    (which expands to)  org.bson.conversions.Bson
+        collection.find().max(max: "id")
+                              ^^^^^^^^^[0m
+[0m2021.12.04 01:04:07 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:04:07 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 01:05:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:05:39 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.04 01:05:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:05:46 INFO  time: compiled root in 0.11s[0m
+[0m2021.12.04 01:17:22 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:17:22 INFO  time: compiled root in 0.13s[0m
+[0m2021.12.04 01:17:25 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:17:25 INFO  time: compiled root in 0.11s[0m
+[0m2021.12.04 01:39:19 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:39:19 INFO  time: compiled root in 0.12s[0m
+[0m2021.12.04 01:41:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:41:46 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 01:41:46 INFO  time: compiled root in 0.68s[0m
+[0m2021.12.04 01:43:01 INFO  compiling root (1 scala source)[0m
+[0m2021.12.04 01:43:01 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.12.04 01:43:01 INFO  time: compiled root in 0.63s[0m
+[0m2021.12.04 01:59:56 INFO  shutting down Metals[0m
+[0m2021.12.04 01:59:56 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.12.04 01:59:56 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...

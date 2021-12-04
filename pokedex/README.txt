@@ -11,7 +11,6 @@ Features
     A Pokedex that can display 800+ different pokemon and cool statistics
     The ability to create your own custom pokemon and add it to the pokedex
     The ability to update or delete existing pokemon in the pokedex
-    A LOAD option for importing new pokemon datasets into the pokedex
  
     Future Improvements:
         Create more queries that implement aggregations of the data

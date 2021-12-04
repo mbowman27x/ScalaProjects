@@ -4,7 +4,7 @@
 		module="pokedex-build-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20211130151017"
+		publication="20211201124826"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

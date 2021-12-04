@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\pokedex_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Helpers$DocumentObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Helpers$DocumentObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Space$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Space$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Helpers$GenericObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Helpers$GenericObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Pokedex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Pokedex$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Helpers$ImplicitObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Helpers$ImplicitObservable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Pokedex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Pokedex.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Space.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\pokedex\target\scala-2.13\classes\example\Space.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
