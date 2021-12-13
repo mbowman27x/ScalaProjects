@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\hivestockanalyzer_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\HiveConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\HiveConnect.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\CreateHdfsFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\CreateHdfsFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Space$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\Space$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\CreateHdfsFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\CreateHdfsFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\HiveConnect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\HiveConnect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\StockAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\StockAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Space.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\Space.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\StockAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\hivestockanalyzer\target\scala-2.11\classes\example\StockAnalyzer$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

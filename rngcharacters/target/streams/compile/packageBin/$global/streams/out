@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\rngcharacters_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\CharacterGenerator$$anonfun$runCharacterGenerator$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example\CharacterGenerator$$anonfun$runCharacterGenerator$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\CharacterGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example\CharacterGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\SparkMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example\SparkMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\SparkMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example\SparkMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\CharacterGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\18284\Desktop\ScalaProjects\rngcharacters\target\scala-2.11\classes\example\CharacterGenerator$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
